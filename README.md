@@ -1,1 +1,1 @@
-# Essential-Math-for-Machine-Learning
+Essential Math for Machine Learning: Python Edition 
